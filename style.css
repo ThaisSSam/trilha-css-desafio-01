@@ -120,7 +120,7 @@ h2{
     height: 363px;
     border-top: 1px solid #33A8DB80;
     border-bottom: 1px solid #33A8DB80;
-    background: url(/assets/images/woman-code.png) fixed ;
+    background: url(assets/images/woman-code.png) fixed ;
     background-size:100%;
     background-size: cover;
     background-position: center;
